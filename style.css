@@ -1,0 +1,84 @@
+*{
+	font-family: Montserrat;
+}
+
+ul{
+	list-style: none;
+}
+
+/*Travel Blog Name*/
+#Travel_Blog_Name{
+	margin: 20px;
+}
+
+/*Local Tourism*/
+#Local_Tourism{
+	background-color: #dddddd;
+}
+
+.Local_Tourism-column{
+	padding-top: 70px;
+	text-align: center;
+}
+
+/*Postcard and Get Around*/
+#PostCard_GetAround{
+	margin-top: 20px;
+}
+
+.PostCard_GetAround-column2{
+	padding-top: 10px;
+	text-align: center;
+	background-color: #733338;
+	padding left: 30px;
+}
+
+/*Features from the blog*/
+#Features_blog{
+	margin-top: 20px;
+}
+
+/*Bucket List Experiences*/
+#BucketList_Experiences{
+	margin-top: 20px;
+}
+
+/*Explore by destination*/
+#Exploreby_Destination{
+	margin-top: 20px;
+}
+
+/*Footer 1*/
+#Footer1{
+	background-color: #733338;
+	padding-top: 20px;
+	color: #ffffff;
+}
+
+.Footer1-column1{
+	padding-bottom: 10px;
+}
+
+.Footer1-link{
+	color: #ffffff;
+}
+
+.Footer1-link:hover{
+	color: #ffffff;
+}
+
+/*Footer 2*/
+.Footer2{
+     
+	background-color: #35363a;
+	padding-top: 20px;
+}
+
+.Footer2-column1{
+	color: #ffffff;
+	padding-top: 10px;
+}
+
+.Footer2-column3{
+	padding-bottom: 10px;
+}
